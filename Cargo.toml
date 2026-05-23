@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 colored = "2"
+eframe = "0.29"
+egui = "0.29"
+image = "0.25.10"
