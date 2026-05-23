@@ -1,1 +1,1 @@
-# Simple Tool to compare text using rust
+# Simple Tool to highlight pixel regions that differ across images.
